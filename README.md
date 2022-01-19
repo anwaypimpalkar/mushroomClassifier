@@ -11,19 +11,13 @@ I have chosen the the problem statement of classifying mushrooms as edible and p
 Some of the visualizations done to understand the dataset are:
 
 1. Number of poisonous and edible mushrooms in the dataset.
-
 2. Visualize the distribution between various habitats and the edibility of mushrooms.
-
 3. Population parameters of the instances of edible and poisonous mushrooms.
-
 4. Plot a treemap showing the distribution of different gill colors of mushrooms.
-
 5. Visualize the occurence of different ring types, and the number of rings on such mushrooms.
-
 6. Test the accuracy of various classification models on the dataset to build a accurate prediction model for edibility of mushrooms.
-
 7. Run the most accurate method of classification on an unseen dataset and cross-check it’s accuracy.
-
+   
    
 
 ## Approach
